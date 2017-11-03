@@ -1,0 +1,5 @@
+Name Age Distance Relation Profession
+Anusha 24 20 Owner Student
+Teja 18 19 Friend Student
+Harshitha 20 22 Friend Student
+Tom 24 20 Brother Professor
