@@ -1,0 +1,3 @@
+96
+Comments:
+android app shows one image instead of video
