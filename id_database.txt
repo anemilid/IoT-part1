@@ -1,0 +1,4 @@
+Anusha 25 0-50 Owner Student
+Teja 18 45-50 Friend Student
+Harshitha 47-50 21 Friend Student
+Tom 24 28-50 Brother Professor
